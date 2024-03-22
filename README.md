@@ -1,17 +1,6 @@
-<h1 align="center">Hi 👋, I'm Özcan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-
-- 🔭 I’m currently working on **Sanal Manga**
-
-- 🌱 I’m currently learning **C#**
-
-- 💬 Ask me about **Android App Developer**
-
-- ⚡ Fun fact **I like learning**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="animeversetr" height="30" width="40" /></a>
+<a target="blank"><img align="center" src="https://instagram.com/ozcanzw" alt="animeversetr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ozcanzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ozcanzx" height="30" width="40" /></a>
 </p>
 
